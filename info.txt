@@ -1,0 +1,25 @@
+PROJECT: Tic-Tac-Toe Game in C
+
+DESCRIPTION:
+This is a console-based Tic-Tac-Toe game developed using the C programming language as a beginner project.
+
+FEATURES:
+- Interactive Tic-Tac-Toe game board.
+- Two-player gameplay using X and O.
+- Detects winning conditions and draws.
+- Displays the game board after each move.
+
+TECHNOLOGIES USED:
+- C Programming Language
+- Arrays
+- Loops and Conditional Statements
+- Functions and User Input
+
+LEARNING OUTCOMES:
+This project helped me understand the fundamentals of C programming and apply them in a practical project. It improved my logical thinking, problem-solving skills, and understanding of game logic.
+
+PROJECT TIMELINE:
+Developed approximately 8 months before October 2026.
+
+NOTE:
+This project represents one of my early programming projects and an important step in my coding journey.
